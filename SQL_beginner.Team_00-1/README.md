@@ -1,4 +1,5 @@
 # Team 00 — SQL Bootcamp
+Проект был выполнен совместно с одним человеком.
 
 ## Задача коммивояжера (Traveling Salesman Problem)
 
